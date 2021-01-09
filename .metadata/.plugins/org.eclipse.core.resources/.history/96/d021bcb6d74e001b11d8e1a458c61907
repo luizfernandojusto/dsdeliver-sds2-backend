@@ -1,0 +1,5 @@
+package com.devsuperior.dsdeliver.entities.enus;
+
+public enum OrderStatus {
+
+}
